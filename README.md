@@ -1,5 +1,5 @@
 # Hello, I'm MANISH
-<a href="https://linkedin.com/secnish/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/secnish/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an undergraduate majoring in Cybersecurity, with a strong interest in SOC investigations and detection engineering. I enjoy working with logs, understanding attacker behavior, and translating security signals into meaningful insights.
 
