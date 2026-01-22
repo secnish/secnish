@@ -17,15 +17,15 @@ I aim to start my professional journey in a Security Operations Center (SOC), co
 
 | Skill                                                     | Associated Project |
 |-----------------------------------------------------------|-------------------|
-| SIEM Deployment & Configuration                           | Wazuh SIEM & XDR Home Lab |
-| Log Analysis & Threat Detection                            | Wazuh SIEM & XDR Home Lab |
-| Endpoint Monitoring & XDR Fundamentals                    | Wazuh SIEM & XDR Home Lab |
-| Network Firewall Configuration & Rule Management           | pfSense Firewall-Based Network Security Home Lab |
-| Network Traffic Monitoring & Defense                       | pfSense Firewall-Based Network Security Home Lab |
-| Virtualized Cybersecurity Lab Design                       | pfSense Firewall-Based Network Security Home Lab |
-| Web Application Security Testing                           | Web Application Security Lab using SafeLine WAF |
-| Web Application Firewall (WAF) Deployment & Tuning         | Web Application Security Lab using SafeLine WAF |
-| Attacker–Defender Simulation (Red vs Blue)                 | Web Application Security Lab using SafeLine WAF |
+| SIEM Deployment & Configuration                           | Wazuh SIEM & XDR Home Lab (In-Progress 🚀)|
+| Log Analysis & Threat Detection                            | Wazuh SIEM & XDR Home Lab (In-Progress 🚀)|
+| Endpoint Monitoring & XDR Fundamentals                    | Wazuh SIEM & XDR Home Lab |(In-Progress 🚀)
+| Network Firewall Configuration & Rule Management           | pfSense Firewall-Based Network Security Home Lab (Starting Soon)|
+| Network Traffic Monitoring & Defense                       | pfSense Firewall-Based Network Security Home Lab (Starting Soon)|
+| Virtualized Cybersecurity Lab Design                       | pfSense Firewall-Based Network Security Home Lab (Starting Soon)|
+| Web Application Security Testing                           | Web Application Security Lab using SafeLine WAF (Upskilling)|
+| Web Application Firewall (WAF) Deployment & Tuning         | Web Application Security Lab using SafeLine WAF (Upskilling)|
+| Attacker–Defender Simulation (Red vs Blue)                 | Web Application Security Lab using SafeLine WAF (Upskilling)|
 
 ---
 
