@@ -19,7 +19,7 @@ I aim to start my professional journey in a Security Operations Center (SOC), co
 |-----------------------------------------------------------|-------------------|
 | SIEM Deployment & Configuration                           | Wazuh SIEM & XDR Home Lab (In-Progress 🚀)|
 | Log Analysis & Threat Detection                            | Wazuh SIEM & XDR Home Lab (In-Progress 🚀)|
-| Endpoint Monitoring & XDR Fundamentals                    | Wazuh SIEM & XDR Home Lab |(In-Progress 🚀)
+| Endpoint Monitoring & XDR Fundamentals                    | Wazuh SIEM & XDR Home Lab (In-Progress 🚀)|
 | Network Firewall Configuration & Rule Management           | pfSense Firewall-Based Network Security Home Lab (Starting Soon)|
 | Network Traffic Monitoring & Defense                       | pfSense Firewall-Based Network Security Home Lab (Starting Soon)|
 | Virtualized Cybersecurity Lab Design                       | pfSense Firewall-Based Network Security Home Lab (Starting Soon)|
