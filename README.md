@@ -1,9 +1,14 @@
-# 👋 Hello, I'm MANISH
+# 🐬 Hello, I'm MANISH
 <a href="https://www.linkedin.com/in/secnish/">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://your-gitbook-link-here">
   <img src="https://img.shields.io/badge/-Check%20My%20Advanced%20Lab-3884FF?&style=for-the-badge&logo=GitBook&logoColor=white" />
+</a>
+
+<a href="https://medium.com/@secnish">
+  <img src="https://img.shields.io/badge/-Check%20My%20Research%20Here-000000?&style=for-the-badge&logo=Medium&logoColor=white" />
 </a>
 
 I am an undergraduate majoring in Cybersecurity, with a strong interest in SOC investigations and detection engineering. I enjoy working with logs, understanding attacker behavior, and translating security signals into meaningful insights.
