@@ -16,6 +16,7 @@ I am an undergraduate majoring in Cybersecurity, with a strong interest in SOC i
 ---
 
 ## 🎯 Objective
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3e41c070-244c-4b7f-9eb1-70d9d286c863" />
 
 I aim to start my professional journey in a Security Operations Center (SOC), contributing to security monitoring and investigation while developing deeper expertise in detection engineering and log-driven analysis.
 
