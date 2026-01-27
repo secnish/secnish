@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://your-gitbook-link-here">
+<a href="https://secnish.gitbook.io/secnish-soclab/">
   <img src="https://img.shields.io/badge/-Check%20My%20Advanced%20Lab-3884FF?&style=for-the-badge&logo=GitBook&logoColor=white" />
 </a>
 
